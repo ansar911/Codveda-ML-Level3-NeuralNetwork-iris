@@ -1,4 +1,4 @@
-# 🧠 Neural Network Classification - Iris Dataset (Level 3 - Codveda Internship)
+# 🧠 Neural Network Classification - Iris Dataset 
 
 ## 📌 Project Overview
 
@@ -76,4 +76,3 @@ This project implements a feed-forward neural network using TensorFlow/Keras to 
 
 ---
 
-✨ Internship Task - Codveda
